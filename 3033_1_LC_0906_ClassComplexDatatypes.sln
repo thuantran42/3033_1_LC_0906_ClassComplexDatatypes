@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3033_1_LC_0906_ClassComplexDatatypes", "3033_1_LC_0906_ClassComplexDatatypes\3033_1_LC_0906_ClassComplexDatatypes.csproj", "{AC4BFE6A-ABF4-46C4-BCCA-9AEDCB315CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4BFE6A-ABF4-46C4-BCCA-9AEDCB315CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4BFE6A-ABF4-46C4-BCCA-9AEDCB315CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4BFE6A-ABF4-46C4-BCCA-9AEDCB315CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4BFE6A-ABF4-46C4-BCCA-9AEDCB315CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B429EB05-759B-4B7D-81F9-F044F240C1F2}
+	EndGlobalSection
+EndGlobal
